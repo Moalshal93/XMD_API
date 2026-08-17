@@ -1,3 +1,4 @@
 fastapi
 curl_cffi
 uvicorn
+scrapy
